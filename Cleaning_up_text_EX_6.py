@@ -77,12 +77,3 @@ if __name__ == "__main__":
     #for i in list_arc:
     #    print(i)
 
-
-
-'''
-list_arc=[]
-import os
-for file in os.listdir("E:\python_libraries\python\Project Wikipedia web crawling"):
-    if file.endswith(".txt") and file.startswith("a"):
-        file=file.rstrip("\n\r")
-        list_arc.append(file)'''
