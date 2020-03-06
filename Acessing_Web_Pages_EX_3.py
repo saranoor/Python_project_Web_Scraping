@@ -138,7 +138,7 @@ def load_robots_txt():
         return 'some allowed'
 
 
-'''if __name__ == "__main__":
+if __name__ == "__main__":
 
     parser=argparse.ArgumentParser(description='Take the file') 
     parser.add_argument('filename', help='what the argument holds',type=str)
@@ -147,4 +147,4 @@ def load_robots_txt():
     extract_wikipedia_urls(args.filename) 
     print('done')
 
- '''   
+  
