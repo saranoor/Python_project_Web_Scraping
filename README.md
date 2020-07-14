@@ -12,6 +12,7 @@ I have written a python script that can extract any wikipedia pages given the la
 ## Important Libraries
 - requests
 - BeautifulSoup
+- Scrapy
 - argparse
 
 ## References
